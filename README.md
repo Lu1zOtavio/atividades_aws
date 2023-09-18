@@ -1,3 +1,0 @@
-# atividades_aws
-
-
