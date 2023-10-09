@@ -1,2 +1,2 @@
-var elementosH1 = document.getElementsByTagName("h1");
-var elementoH1 = document.querySelector("#lista-ordenada");
+var elementoH1 = document.querySelector("#titulo");
+console.log(elementoH1);
