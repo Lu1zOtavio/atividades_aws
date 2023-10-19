@@ -1,4 +1,3 @@
-@ -0,0 +1,77 @@
 let usernameInput = document.getElementById("username");
 let usernameLabel = document.querySelector('label[for="username"]');
 let usernameHelper = document.getElementById("username-helper");
