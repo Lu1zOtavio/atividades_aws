@@ -1,0 +1,18 @@
+div{
+    gap: 30px;
+    margin-top: 15px;
+    text-align: center;
+}
+.clas{
+    font-size: 30px;
+    background-color: aqua;
+    color: ghostwhite;
+    text-align: center;
+}
+span {
+    opacity: 0; 
+    transition: all 0.3s;
+  }
+  section {
+   margin-top: 1rem;
+  }
