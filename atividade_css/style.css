@@ -1,0 +1,23 @@
+.imagem {
+    width: 580px;
+    height:  300px;
+    margin: 25px;
+    margin-left: 460px;
+  }
+  .texto-movido {
+      margin-top: 40px; /* Move o texto 20 pixels para baixo */
+      margin-left: 580px; 
+      font-family:Tahoma, Arial, sans-serif;
+      background-color: antiquewhite;
+  }
+  .titulo {
+  margin-left: 250px;
+  padding: 15px;
+  background-color: wheat;
+  width: 300px;
+  }
+figcaption{
+    background-color: aqua;
+    border-radius: 15px;
+    padding: 12px;
+}
