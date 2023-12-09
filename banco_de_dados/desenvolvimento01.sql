@@ -20,6 +20,7 @@ ON Livros FOR EACH ROW
 BEGIN
     INSERT INTO LogMensagens (Mensagem) VALUES ('Novo livro inserido: ' || NEW.Titulo);
 END;
+//
 DELIMITER ;
 
 CREATE TABLE LogMensagens (
